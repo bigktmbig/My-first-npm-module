@@ -1,16 +1,22 @@
 {
   "name": "hellobig",
   "version": "1.0.0",
-  "description": "My first module",
+  "description": "My first npm module",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigktmbig/My-first-npm-module.git"
+  },
   "keywords": [
-    "big",
-    "module",
-    "hello"
+    "big"
   ],
   "author": "bigking",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigktmbig/My-first-npm-module/issues"
+  },
+  "homepage": "https://github.com/bigktmbig/My-first-npm-module#readme"
 }
