@@ -1,0 +1,16 @@
+{
+  "name": "hellobig",
+  "version": "1.0.0",
+  "description": "My first module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "big",
+    "module",
+    "hello"
+  ],
+  "author": "bigking",
+  "license": "ISC"
+}
